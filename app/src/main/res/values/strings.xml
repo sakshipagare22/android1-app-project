@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">my demo project</string>
+    <string name="welcome">welcome</string>
+    <string name="please_login_with_your_information">please login with your information</string>
+    <string name="email_address">Email_Address</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="i_forgot_my_password">I forgot my password</string>
+    <string name="go_map">GO MAP</string>
+    <string name="login">Login</string>
+    <string name="or_login_with">Or Login with</string>
+    <string name="todo">TODO</string>
+    <string name="facebook" />
+    <string name="desc">Image</string>
+</resources>
